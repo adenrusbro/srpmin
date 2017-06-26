@@ -7,7 +7,7 @@ client and server might use the SRP API to establish a securely
 authenticated session:
 
 Client                             Server
-------                             ------
+-------                             -------
 
 SRP_initialize_library();          SRP_initialize_library();
 
